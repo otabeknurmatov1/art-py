@@ -4,6 +4,7 @@ from art import clip
 import os
 import time
 
+# Hello from otabeknurmatov1
 name = input("What is your crushes name: ")
 text = f"I love you {name.capitalize()}"
 for i in range(len(clip)):
